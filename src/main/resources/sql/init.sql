@@ -1,0 +1,5 @@
+CREATE TABLE car
+(
+    id BIGINT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    name varchar NOT NULL
+);

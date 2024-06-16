@@ -1,0 +1,7 @@
+spring:
+  application:
+    name: ShopCars
+  r2dbc:
+    username: sa
+    password:
+    url: r2dbc:h2:mem:///~/db/testdb
